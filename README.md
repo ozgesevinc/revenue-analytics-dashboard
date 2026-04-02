@@ -42,8 +42,6 @@ The dashboard provides a comprehensive view of revenue performance using the fol
 * Churned Users & Churn Rate
 * Churned Revenue & Revenue Churn Rate
 * Expansion MRR & Contraction MRR
-* Customer Lifetime (LT)
-* Customer Lifetime Value (LTV)
 
 ---
 
